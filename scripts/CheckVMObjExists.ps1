@@ -2,6 +2,7 @@
 # License
 Owner: https://github.com/brandon025
 Version: 1.0
+#> 
 
 ### Get VM List Path
 $scriptDir = Split-Path $script:MyInvocation.MyCommand.Path
